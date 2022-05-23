@@ -38,7 +38,10 @@
         python3 Confusion_Matrix_bev.py
         
   ## 8. Result
-  ![GITHUB](/media/sda1/chun/research/result/all_TW_homo_front+homo model/homo_TW_55.jpg?raw=true)
+  Front view
+  ![image](https://github.com/yichun-hub/MaskRCNN_Road-Markings/blob/main/results/TW_67.jpg)
+  Bird's Eye View
+  ![image](https://github.com/yichun-hub/MaskRCNN_Road-Markings/blob/main/results/homo_TW_67.jpg)
         
   ## Colab `Mask_rcnn.ipynb`
   The overall procedure can be implemented in `Mask_rcnn.ipynb`
