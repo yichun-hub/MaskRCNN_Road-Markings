@@ -1,5 +1,7 @@
 # MaskR-CNN_Road-Markings
   ## 1. Label the objects
+  Training data: SVA dataset, Ceymo dataset
+  Testing data: Taiwan Road Scene
   Using VGG Image Annotator (VIA) annotaions technique
   ## 2. Mask R-CNN environment
   * Operating System: Ubuntu 18.04
