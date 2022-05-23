@@ -20,14 +20,15 @@
   ## 5. Evaluation `bev_mAP.py`
   * The latest weight path: `MODEL_DIR` `COCO_MODEL_PATH`
   * Modify the `class_names`  
-      python3 bev_mAP.py
+  
+        python3 bev_mAP.py
       
   ## 6. Visulization `bev_test_project.py`
   * The save path of images:`save_dir`
   * The latest weight path: `MODEL_DIR` `COCO_MODEL_PATH`
   * Modify the `class_names`
   
-      python3 bev_test_project.py
+        python3 bev_test_project.py
       
   ## 7. Confusion Matrix `Confusion_Matrix_bev.py`
   * The save path of images:`save_dir`
