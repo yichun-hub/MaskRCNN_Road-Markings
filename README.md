@@ -36,3 +36,6 @@
   * Modify the `class_names`
 
         python3 Confusion_Matrix_bev.py
+        
+  ## Colab `Mask_rcnn.ipynb`
+  The overall procedure can be implemented in `Mask_rcnn.ipynb`
