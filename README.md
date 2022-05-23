@@ -27,6 +27,7 @@
   * The latest weight path: `MODEL_DIR` `COCO_MODEL_PATH`
   * Modify the `class_names`
   
+  
       python3 bev_test_project.py
       
   ## 7. Confusion Matrix `Confusion_Matrix_bev.py`
