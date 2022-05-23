@@ -39,8 +39,11 @@
         
   ## 8. Result
   Front view
+  
   ![image](https://github.com/yichun-hub/MaskRCNN_Road-Markings/blob/main/results/TW_67.jpg)
+  
   Bird's Eye View
+  
   ![image](https://github.com/yichun-hub/MaskRCNN_Road-Markings/blob/main/results/homo_TW_67.jpg)
         
   ## Colab `Mask_rcnn.ipynb`
